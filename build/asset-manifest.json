@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SHelp2/static/css/main.a2b3d253.css",
+    "main.js": "/SHelp2/static/js/main.74ee076a.js",
+    "static/media/Screen Shot 2023-06-28 at 1.41.31 PM.png": "/SHelp2/static/media/Screen Shot 2023-06-28 at 1.41.31 PM.af0cf28972f88e0f799d.png",
+    "static/media/image 9.png": "/SHelp2/static/media/image 9.c1f216ce0e7dec8c04a0.png",
+    "static/media/image 8.png": "/SHelp2/static/media/image 8.b97ba2bc766353468f17.png",
+    "static/media/image 6.png": "/SHelp2/static/media/image 6.24639dbd5f19b0ae0f1e.png",
+    "static/media/image 7.png": "/SHelp2/static/media/image 7.ab1cc85b7ed5230813ab.png",
+    "static/media/Screen Shot 2023-06-14 at 11.45 2.png": "/SHelp2/static/media/Screen Shot 2023-06-14 at 11.45 2.fdf095467ce0cc2bd8d7.png",
+    "static/media/logo.png": "/SHelp2/static/media/logo.c078ca93f30db4a4c49a.png",
+    "static/media/3198726467.jpg": "/SHelp2/static/media/3198726467.12cdd2c6a3b23dee53b3.jpg",
+    "static/media/maroon-abstract-background_1340-17013.jpg.webp": "/SHelp2/static/media/maroon-abstract-background_1340-17013.jpg.03259505eda18a8d084f.webp",
+    "static/media/slick.svg": "/SHelp2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SHelp2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SHelp2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SHelp2/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SHelp2/index.html",
+    "main.a2b3d253.css.map": "/SHelp2/static/css/main.a2b3d253.css.map",
+    "main.74ee076a.js.map": "/SHelp2/static/js/main.74ee076a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b3d253.css",
+    "static/js/main.74ee076a.js"
+  ]
+}
