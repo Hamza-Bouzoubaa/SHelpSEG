@@ -1,0 +1,99 @@
+.search-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  width: 800px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius:15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-input {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  opacity: 0.5;
+}
+
+.search-button {
+  background-color: #af1717;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 15px;
+  margin-left: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.services-section {
+  margin-top: 50px;
+}
+
+.section-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.service-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.service-card {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 300px;
+}
+
+.service-icon {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.service-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.service-description {
+  font-size: 14px;
+}
+
+.testimonials-section {
+  margin-top: 50px;
+}
+.service-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Add appropriate gap between the cards */
+  flex-wrap: wrap; /* Allow cards to wrap to the next row */
+}
+
+.service-card {
+  /* ... Other styles ... */
+  flex: 0 0 300px; /* Fix the width of the cards to 300px */
+}

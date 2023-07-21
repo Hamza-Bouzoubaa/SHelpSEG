@@ -1,0 +1,77 @@
+.service-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+  }
+  
+  .service-icon {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .service-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .service-description {
+    font-size: 14px;
+  }
+  .service-card.expanded {
+    height: auto;
+    overflow: visible;
+  }
+  
+  .service-card.expanded .service-description {
+    max-height: none;
+    overflow: visible;
+  }
+  .service-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+    cursor: pointer;
+    transition: height 0.3s ease;
+    overflow: hidden;
+  }
+  
+  
+  .service-card .service-title {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .service-card .service-description {
+    font-size: 14px;
+    max-height: 80px;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+  
+  .service-card .expand-button {
+    color: black;
+    padding: 8px 16px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+
+  }
+  .service-card .expand-button:hover {
+    background-color: darkgreen;
+    color: #f9f9f9;
+  }
+
+  
+
