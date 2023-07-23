@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Bot from '../../components/Chat/Chat';
 
 class Contact extends Component {
   render() {
@@ -8,6 +9,7 @@ class Contact extends Component {
         <p>Name: John Doe</p>
         <p>Email: john.doe@example.com</p>
         <p>Phone: (123) 456-7890</p>
+        <Bot/>
       </div>
     );
   }
