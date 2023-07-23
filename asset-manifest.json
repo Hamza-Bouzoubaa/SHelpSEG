@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ShelpSEG/static/css/main.3802a58e.css",
-    "main.js": "/ShelpSEG/static/js/main.e79ca9cd.js",
-    "static/media/cook.jpeg": "/ShelpSEG/static/media/cook.a03273625c85528cffb5.jpeg",
-    "static/media/snowshov.jpeg": "/ShelpSEG/static/media/snowshov.e84fbd339f3f4515d236.jpeg",
-    "static/media/plant.jpeg": "/ShelpSEG/static/media/plant.5b7b22b9a86016a96fa3.jpeg",
-    "static/media/shop.jpeg": "/ShelpSEG/static/media/shop.1626ce1a3ed3a865a55c.jpeg",
-    "static/media/tutor.webp": "/ShelpSEG/static/media/tutor.8403a80a29b32cff5cfe.webp",
-    "static/media/babysit.jpeg": "/ShelpSEG/static/media/babysit.868caefaf624caca10a0.jpeg",
-    "static/media/dogwalik.jpeg": "/ShelpSEG/static/media/dogwalik.80bd765217c84d8af8b0.jpeg",
-    "static/media/logo.png": "/ShelpSEG/static/media/logo.c078ca93f30db4a4c49a.png",
-    "static/media/3198726467.jpg": "/ShelpSEG/static/media/3198726467.12cdd2c6a3b23dee53b3.jpg",
-    "static/media/maroon-abstract-background_1340-17013.jpg.webp": "/ShelpSEG/static/media/maroon-abstract-background_1340-17013.jpg.03259505eda18a8d084f.webp",
-    "static/media/slick.svg": "/ShelpSEG/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/ShelpSEG/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/ShelpSEG/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/ShelpSEG/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/ShelpSEG/index.html",
-    "main.3802a58e.css.map": "/ShelpSEG/static/css/main.3802a58e.css.map",
-    "main.e79ca9cd.js.map": "/ShelpSEG/static/js/main.e79ca9cd.js.map"
+    "main.css": "/SHelpSEG/static/css/main.91b582ea.css",
+    "main.js": "/SHelpSEG/static/js/main.d7b9120c.js",
+    "static/media/cook.jpeg": "/SHelpSEG/static/media/cook.a03273625c85528cffb5.jpeg",
+    "static/media/snowshov.jpeg": "/SHelpSEG/static/media/snowshov.e84fbd339f3f4515d236.jpeg",
+    "static/media/plant.jpeg": "/SHelpSEG/static/media/plant.5b7b22b9a86016a96fa3.jpeg",
+    "static/media/shop.jpeg": "/SHelpSEG/static/media/shop.1626ce1a3ed3a865a55c.jpeg",
+    "static/media/tutor.webp": "/SHelpSEG/static/media/tutor.8403a80a29b32cff5cfe.webp",
+    "static/media/babysit.jpeg": "/SHelpSEG/static/media/babysit.868caefaf624caca10a0.jpeg",
+    "static/media/dogwalik.jpeg": "/SHelpSEG/static/media/dogwalik.80bd765217c84d8af8b0.jpeg",
+    "static/media/logo.png": "/SHelpSEG/static/media/logo.c078ca93f30db4a4c49a.png",
+    "static/media/3198726467.jpg": "/SHelpSEG/static/media/3198726467.12cdd2c6a3b23dee53b3.jpg",
+    "static/media/maroon-abstract-background_1340-17013.jpg.webp": "/SHelpSEG/static/media/maroon-abstract-background_1340-17013.jpg.03259505eda18a8d084f.webp",
+    "static/media/slick.svg": "/SHelpSEG/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SHelpSEG/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SHelpSEG/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SHelpSEG/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SHelpSEG/index.html",
+    "main.91b582ea.css.map": "/SHelpSEG/static/css/main.91b582ea.css.map",
+    "main.d7b9120c.js.map": "/SHelpSEG/static/js/main.d7b9120c.js.map"
   },
   "entrypoints": [
-    "static/css/main.3802a58e.css",
-    "static/js/main.e79ca9cd.js"
+    "static/css/main.91b582ea.css",
+    "static/js/main.d7b9120c.js"
   ]
 }
