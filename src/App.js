@@ -12,11 +12,11 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router basename="/SHelp2">
+    <Router basename="/SHelpSEG">
       <TopBar />
       <Routes>
         <Route path="" element={<Home1 />} />
-        <Route path="/SHelp2/" element={<Home1 />} />
+        <Route path="/SHelpSEG/" element={<Home1 />} />
         <Route path="/Home" element={<Home1 />} />
         <Route path="/Info" element={<Info />} />
         <Route path="/Login" element={<Login />} />
